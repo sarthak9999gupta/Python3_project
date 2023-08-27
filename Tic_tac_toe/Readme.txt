@@ -1,6 +1,4 @@
-Certainly! A README file is usually a text document that accompanies a software project and provides essential information about it. Here's a sample README for the Tic-Tac-Toe game in Python you posted earlier:
 
----
 
 # Tic-Tac-Toe Game in Python
 
@@ -33,7 +31,7 @@ This repository contains a simple Tic-Tac-Toe game implemented in Python. The ga
 No additional packages are required. Clone this repository and run the script.
 
 ```bash
-git clone https://github.com/your_username/tic_tac_toe.git
+git clone https://github.com/Sarthak9999gupta/tic_tac_toe.git
 cd tic_tac_toe
 python3 tic_tac_toe.py
 ```
