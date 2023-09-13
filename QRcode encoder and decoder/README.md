@@ -49,6 +49,6 @@ This script was created by sarthakgupta. You can find the original source code a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
+---
 Make sure to replace `"script.py"` with the actual name of your Python script. Also, modify the GitHub repository link, author name, and other details as needed.

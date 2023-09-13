@@ -1,8 +1,4 @@
-
-
 # Pong Game
-
-## Description
 This is a basic implementation of the classic Pong game using Python and the Turtle graphics library. The game features two paddles, one for each player, and a ball. The objective is to bounce the ball back and forth using the paddles and prevent it from reaching the edges of the screen. Each time the ball passes a player's paddle and reaches the edge of the screen, the opposing player scores a point. The game continues indefinitely until you decide to exit.
 
 ## How to Play

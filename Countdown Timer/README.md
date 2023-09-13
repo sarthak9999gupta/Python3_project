@@ -1,15 +1,10 @@
----
-
 ## Countdown Timer in Python
 
 ### Description
 This is a simple Python script that lets the user input a number of seconds and then counts down to zero, displaying the remaining time in a `MM:SS` format.
 
-### Author
-Sarthak Gupta
-
-### Date of Creation
-24th August 2023
+- Author: [Sarthak Gupta](https://github.com/sarthak9999gupta)
+- Date of Creation: 24th August 2023
 
 ### Requirements:
 - Python 3.x
@@ -37,5 +32,4 @@ Sarthak Gupta
 - Integrate with a GUI for a more visual experience.
 - Add sound notifications or alerts for when the time is up.
 - Allow input in `MM:SS` format in addition to just seconds.
-
 ---
