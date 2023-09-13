@@ -1,9 +1,4 @@
----
-
 # Python Password Generator with Error Handling
-
-## Description
-
 This is an enhanced Python script for generating a random password. The generated password will contain at least one lowercase letter, one uppercase letter, one digit, and one special character. The user can specify the length of the password. Error handling is implemented for invalid or out-of-range inputs.
 
 ## Requirements

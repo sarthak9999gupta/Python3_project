@@ -1,8 +1,4 @@
-```markdown
 # Photo Manipulation Studio
-
-![Project Logo](your_project_logo.png) <!-- Include an image or logo if applicable -->
-
 A Python-based command-line tool for performing various image manipulation tasks. This tool uses the Python Imaging Library (PIL) to provide a range of features, from resizing and format conversion to applying filters and enhancing images.
 
 ## Table of Contents
@@ -99,6 +95,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute it according to the terms of the license.
-```
 
+---
 This README template provides a structure for documenting your project, including its features, installation instructions, usage guidelines, contribution guidelines, and licensing information. You can further customize it to suit the specific needs and details of your project.

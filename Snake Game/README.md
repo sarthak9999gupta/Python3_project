@@ -1,7 +1,5 @@
-# Snake Game Readme
-
-## Introduction
-This readme file provides an overview of a simple Snake Game implemented in Python using the Turtle graphics library. The game features a snake that moves around the screen, eating food to grow longer while avoiding collisions with the border or itself.
+# Snake Game
+This README file provides an overview of a simple Snake Game implemented in Python using the Turtle graphics library. The game features a snake that moves around the screen, eating food to grow longer while avoiding collisions with the border or itself.
 
 ## Table of Contents
 1. [Game Overview](#game-overview)

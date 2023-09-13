@@ -1,9 +1,4 @@
-
-
 # Tic-Tac-Toe Game in Python
-
-## Overview
-
 This repository contains a simple Tic-Tac-Toe game implemented in Python. The game is played in the console and supports two players, one playing as 'X' and the other as 'O'.
 
 ## Table of Contents
@@ -52,5 +47,4 @@ If you would like to contribute, please fork the repository and use a feature br
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-
 This is a basic README. Depending on the complexity and requirements of your project, you might want to include additional sections such as 'Known Issues', 'Credits', 'Acknowledgments', etc. Feel free to modify it as per your needs.
